@@ -7,3 +7,4 @@ add new commit A2
 init git rebase
 
 init fixbug 01
+ahihi
